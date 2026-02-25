@@ -9,8 +9,8 @@
 
 
 
-# 💫 About Me:
-<br>- 🎓 Final Year Engineering Student (VTU – 8th Semester)<br>- 💻 Aspiring **Java Software Developer**<br>- 🚀 Currently focused on **Core Java & Data Structures**<br>- 📚 Learning OOP concepts and problem solving<br>- 🔨 Developed Java console-based projects<br>- 🎯 Preparing for Software Developer roles<br>- ⚡ Consistency builds strong developers<br>
+#  About Me:
+<br>-  Final Year Engineering Student (VTU – 8th Semester)<br>-  Aspiring **Java Software Developer**<br>-  Currently focused on **Core Java & Data Structures**<br>-  Learning OOP concepts and problem solving<br>- 🔨 Developed Java console-based projects<br>- Preparing for Software Developer roles<br>- Consistency builds strong developers<br>
 
 
 ## 🌐 Socials:
@@ -23,8 +23,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Chaturth&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaturth&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chaturth&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Chaturth&icon=0&color=0)](https://visitcount.itsvg.in)
