@@ -10,7 +10,7 @@
 
 
 #  About Me:
-<br>  Final Year Engineering Student (VTU – 8th Semester)<br>  Aspiring **Java Software Developer**<br>  Currently focused on **Core Java & Data Structures**<br>  Learning OOP concepts and problem solving<br>  Developed Java console-based projects<br> Preparing for Software Developer roles<br> Consistency builds strong developers<br>
+<br>  Graduated as an AIML Enginner <br>  Aspiring **Java Software Developer**<br>  Developed Java console-based projects<br> Preparing for Software Developer roles<br> Consistency builds strong developers<br>
 
 
 ##  Socials:
